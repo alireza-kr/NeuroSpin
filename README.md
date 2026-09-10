@@ -151,7 +151,7 @@ There's no single lockfile here — the code spans a couple of different environ
 
 ## 🙏 Acknowledgments
 
-Maintained by **Alireza Karami**. While putting these materials together, he drew on the insights and expertise of **Christophe Pallier**, **Fosca Al Roumi**, **Minye Zhan**, and **Bosco Taddei** — though, as noted above, responsibility for any errors in the code or guidelines remains his alone.
+Maintained by **Alireza Karami**. While putting these materials together, he drew on the insights and expertise of **Christophe Pallier**, **Fosca Al Roumi**, **Leila Azizi**, **Minye Zhan**, and **Bosco Taddei** — though, as noted above, responsibility for any errors in the code or guidelines remains his alone.
 
 ## 📜 License
 
